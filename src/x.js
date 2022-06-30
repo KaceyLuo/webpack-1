@@ -1,4 +1,4 @@
 import './x.scss'
 import './y.less'
-import '/z.styl'
+import './z.styl'
 export default 'xxx'
